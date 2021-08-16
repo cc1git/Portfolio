@@ -1,0 +1,10 @@
+#Imageofcc{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+
+.nav-link {
+    display: inline-block; 
+    padding: .5rem 1rem;
+}
