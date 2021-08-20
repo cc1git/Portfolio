@@ -1,13 +1,18 @@
-#Web-design{
 
+
+.web-links {
     background-color:#B00F0F ;
     font-size: 20px;
     font-family: Roboto Condensed;
- 
+    width: 25%;
     font-style: bold;
     font-weight: bolder;
-    line-height: 21px;
+    line-height: 17px;
     letter-spacing: 0em;
+}
 
-
+@media only screen and (max-width: 600px) {
+    .web-links{
+        width: 50%;
+    }
 }
